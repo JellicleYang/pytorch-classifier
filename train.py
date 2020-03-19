@@ -13,7 +13,7 @@ import utils
 from model import Models
 from data_process import data
 
-parser = argparse.ArgumentParser(description='PyTorch SE-ResNet Training')
+parser = argparse.ArgumentParser(description='PyTorch classifier Training')
 
 parser.add_argument('--gpu', type=str, default=None,
                     help='ID of GPUs to use, eg. 1,3')

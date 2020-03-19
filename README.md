@@ -1,9 +1,9 @@
 # pytorch-classifier
   An idiot way to do the classification
   
-  requirements:
-  --python>=3
-  --pytorch>=1.3.1
+  requirements:  
+  --python>=3  
+  --pytorch>=1.3.1  
 
 ## Dataset
 ```
